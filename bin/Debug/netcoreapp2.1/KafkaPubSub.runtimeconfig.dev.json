@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/pouya/.dotnet/store/|arch|/|tfm|",
+      "/home/pouya/.nuget/packages",
+      "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+    ]
+  }
+}
