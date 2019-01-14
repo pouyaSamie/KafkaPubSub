@@ -4,6 +4,7 @@ using System.Text;
 using Confluent.Kafka;
 using Confluent.Kafka.Serialization;
 
+
 namespace KafkaPubSub
 {
   class Program
